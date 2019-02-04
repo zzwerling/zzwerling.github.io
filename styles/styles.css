@@ -21,8 +21,15 @@ body {
 }
 
 .bigtextdiv.links{
-    padding-top: 75%;
-    margin-left: -11%;
+   display: block;
+    text-align: center;
+    margin-top: 50%;
+
+
+}
+
+.links{
+    text-align: center;
 
 }
 
