@@ -33,6 +33,9 @@ body {
 
 }
 
+.repository{
+    color: turquoise;
+}
 
 .bigtext{
     font-size: 600%;
